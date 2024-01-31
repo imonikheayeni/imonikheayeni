@@ -1,3 +1,8 @@
+## IMONIKHE IRIA AYENI
+
+I am a Data Scientist with knowledge of web design. I am currently a Research Assistant in the [Cardiff School Technologies](https://www.cardiffmet.ac.uk/technologies/Pages/default.aspx), [Cardiff Metropolitan University](https://www.cardiffmet.ac.uk/Pages/default.aspx), United Kingdom. I have expertise in Python, SQL, Power BI, Machine Learning, Statistics, HTML, CSS, SPSS, Tableau, Qualtrics, and Nvivo. I have a [personal website](https://imonikheayeni.github.io/) where you can check out some of my projects.
+
+
 ### Hi there 👋
 
 <!--
