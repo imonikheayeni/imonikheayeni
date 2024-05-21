@@ -4,7 +4,7 @@
 [![YouTube Badge](https://img.shields.io/badge/My-Website-lightgrey)](https://imonikheayeni.github.io/)
 
 
-Ayeni is an experienced and results-driven Data Scientist, Research Assistant, and Customer Experience Analyst with a solid foundation in data analytics, research methodologies, and customer-centric strategies. Leveraging a master's degree in Data Science from Cardiff Metropolitan University and bolstered by Microsoft Azure AI Fundamentals certification (in-view), I bring over 7 years of expertise in driving impactful insights and enhancing customer experiences across diverse industries.
+Ayeni is an experienced and results-driven Data Scientist, Research Assistant, and Customer Experience Analyst with a solid foundation in data analytics, research methodologies, and customer-centric strategies. Leveraging a master's degree in Data Science from Cardiff Metropolitan University and bolstered by Microsoft Azure AI Fundamentals certification, I bring over 7 years of expertise in driving impactful insights and enhancing customer experiences across diverse industries.
 
 ---
 ### **Education**
