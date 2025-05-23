@@ -7,7 +7,7 @@
 
 ## Academic Excellence & Continuous Learning
 
-Imonikhe holds a **Master of Science in Data Science with Distinction** from Cardiff Metropolitan University (2024), demonstrating exceptional academic performance in advanced data science methodologies. His educational foundation is further strengthened by a Master's in Geography and Planning from the University of Lagos and a Bachelor's degree with Second Class Upper honors from the University of Benin. This diverse educational background provides him with unique spatial analysis capabilities that complement his data science expertise.
+Imonikhe holds a **Master of Science in Data Science with Distinction** from [Cardiff Metropolitan University](https://www.cardiffmet.ac.uk/Pages/default.aspx) (2024), demonstrating exceptional academic performance in advanced data science methodologies. His educational foundation is further strengthened by a Master's in Geography and Planning from the [University of Lagos](https://unilag.edu.ng/) and a Bachelor's degree with Second Class Upper honors from the [Univerity of Benin](https://www.uniben.edu/index.html). This diverse educational background provides him with unique spatial analysis capabilities that complement his data science expertise.
 
 His commitment to professional development is evident through his recent certification achievements, including **Microsoft Certified Power BI Data Analyst Associate**, **Azure AI Fundamentals**, and **Certiport IT Specialist** certifications in both Data Analytics and Databases. Currently preparing for AWS Certified Solutions Architect Associate certification, Imonikhe continues to expand his cloud computing expertise.
 
