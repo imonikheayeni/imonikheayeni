@@ -3,7 +3,6 @@
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://imonikheayeni.github.io/Imonikhe%20Iria%20Ayeni%20CV.html)
 [![YouTube Badge](https://img.shields.io/badge/My-Website-lightgrey)](https://imonikheayeni.github.io/)
 
-
 **Imonikhe Ayeni** is a highly accomplished data scientist with an impressive blend of academic excellence and industry expertise spanning over 7 years in financial services and advanced analytics. Currently based in the United Kingdom, Imonikhe has established himself as a versatile professional capable of bridging the gap between complex technical analysis and strategic business decision-making.
 
 ## Academic Excellence & Continuous Learning
@@ -59,7 +58,7 @@ Currently seeking new opportunities to leverage his comprehensive skill set in c
 ---
 
 *Connect with Imonikhe: [LinkedIn](https://www.linkedin.com/in/imonikhe-ayeni/) | [Portfolio](https://imonikheayeni.github.io/) | [GitHub](https://github.com/imonikheayeni)*
----
+
 ### **Education**
 
 * MSc in [_Data Science_](https://www.cardiffmet.ac.uk/technologies/courses/Pages/Data-Science-MSc.aspx), [Cardiff Metropolitan University](https://www.cardiffmet.ac.uk/Pages/default.aspx) (2024)
