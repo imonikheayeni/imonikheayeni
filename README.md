@@ -53,9 +53,9 @@ Currently leading analytical delivery within the NHS England Cancer Patient Expe
 
 | Degree | Institution | Year |
 |---|---|---|
-| MSc in [Data Science](https://www.cardiffmet.ac.uk/technologies/courses/Pages/Data-Science-MSc.aspx) (Distinction) | [Cardiff Metropolitan University](https://www.cardiffmet.ac.uk/Pages/default.aspx) | 2024 |
-| MSc in [Geography and Planning](http://sosc.unilag.edu.ng/?page_id=451) | [University of Lagos](https://unilag.edu.ng/) | 2018 |
-| BSc in [Geography and Regional Planning](https://socsci.uniben.edu/department-of-geography-and-regional-planning/) (2.1) | [University of Benin](https://www.uniben.edu/index.html) | 2010 |
+| MSc in [Data Science](https://www.cardiffmet.ac.uk/courses/postgraduate/msc-data-science/) (Distinction) | [Cardiff Metropolitan University](https://en.wikipedia.org/wiki/Cardiff_Metropolitan_University) | 2024 |
+| MSc in [Geography and Planning](http://sosc.unilag.edu.ng/?page_id=451) | [University of Lagos](https://en.wikipedia.org/wiki/University_of_Lagos) | 2018 |
+| BSc in [Geography and Regional Planning](https://socsci.uniben.edu/department-of-geography-and-regional-planning/) (2.1) | [University of Benin](https://www.uniben.edu/) | 2010 |
 
 ## Certifications & Memberships
 
@@ -86,11 +86,11 @@ Currently leading analytical delivery within the NHS England Cancer Patient Expe
 
 | Project | Tech Stack | Highlights |
 |---|---|---|
-| [Airbnb Predictive Pricing Model](https://github.com/imonikheayeni) | Python, Random Forest, Ridge Regression | 58.6% R² accuracy with feature engineering and ensemble methods |
-| [Stock Volatility Analysis & Forecasting](https://github.com/imonikheayeni) | Python, GARCH, EGARCH | Comparative volatility analysis of MSFT vs AAPL; leverage effect modelling |
-| [Stroke Risk Prediction Model](https://github.com/imonikheayeni) | Python, ML, Flask, Git, Heroku | Deployed prediction model with automated retraining pipeline |
-| [Geospatial Machine Learning](https://github.com/imonikheayeni) | Python, Geospatial Libraries | Spatial clustering algorithms for geographic pattern analysis |
-| [NLP Sentiment & Business Impact Analysis](https://github.com/imonikheayeni) | Python, NLTK, SpaCy | 87% accuracy in sentiment classification of global events |
+| [Airbnb Predictive Pricing Model](https://imonikheayeni.com/Airbnb-Analysis.html) | Python, Random Forest, Ridge Regression | 58.6% R² accuracy with feature engineering and ensemble methods |
+| [Stock Volatility Analysis & Forecasting](https://imonikheayeni.com/Stock_Analysis.html) | Python, GARCH, EGARCH | Comparative volatility analysis of MSFT vs AAPL; leverage effect modelling |
+| [Stroke Risk Prediction Model](https://imonikheayeni.com/Stroke-Risk-Prediction.html) | Python, ML, Flask, Git, Heroku | Deployed prediction model with automated retraining pipeline |
+| [Geospatial Machine Learning](https://imonikheayeni.com/Geospatial-Analysis.html) | Python, Geospatial Libraries | Spatial clustering algorithms for geographic pattern analysis |
+| [NLP Sentiment & Business Impact Analysis](https://imonikheayeni.com/Digital-Pulse-of-Conflict.html) | Python, NLTK, SpaCy | 87% accuracy in sentiment classification of global events |
 
 ## Professional Strengths
 
