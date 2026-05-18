@@ -3,7 +3,7 @@
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://imonikheayeni.github.io/Imonikhe%20Iria%20Ayeni%20CV.html)
 [![Website Badge](https://img.shields.io/badge/My-Website-lightgrey)](https://imonikheayeni.github.io/)
 
-**Imonikhe Ayeni** is a Senior Data Analyst and NHS Principal Insight Analyst with over 7 years of experience delivering business intelligence solutions across healthcare, finance, and research sectors. A Microsoft Certified Power BI Data Analyst Associate, he specialises in full lifecycle dashboard development, data visualisation, and translating complex datasets into actionable insights for senior stakeholders.
+**Imonikhe Ayeni** is a Data Scientist and NHS Principal Insight Analyst with over 7 years of experience delivering business intelligence solutions across healthcare, finance, and research sectors. A Microsoft Certified Power BI Data Analyst Associate, he specialises in full lifecycle dashboard development, data visualisation, and translating complex datasets into actionable insights for senior stakeholders.
 
 Currently leading analytical delivery within the NHS England Cancer Patient Experience Survey Team, Imonikhe combines deep technical expertise across the modern analytics stack, Power BI, SQL, Python, R, Databricks, and cloud platforms, with a proven ability to manage quality service delivery and drive innovation through data analytics.
 
