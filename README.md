@@ -1,6 +1,6 @@
 ## IMONIKHE AYENI, MBCS, AphA
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/imonikhe-ayeni/)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://imonikheayeni.github.io/Imonikhe%20Iria%20Ayeni%20CV.html)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://imonikheayeni.com/Imonikhe-Ayeni-CV.html)
 [![Website Badge](https://img.shields.io/badge/My-Website-lightgrey)](https://imonikheayeni.github.io/)
 
 **Imonikhe Ayeni** is a Data Scientist and NHS Principal Insight Analyst with over 7 years of experience delivering business intelligence solutions across healthcare, finance, and research sectors. A Microsoft Certified Power BI Data Analyst Associate, he specialises in full lifecycle dashboard development, data visualisation, and translating complex datasets into actionable insights for senior stakeholders.
