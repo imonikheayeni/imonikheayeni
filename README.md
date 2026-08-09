@@ -60,6 +60,7 @@ Currently leading analytical delivery within the NHS England Cancer Patient Expe
 ## Certifications & Memberships
 
 **Cloud & AI**
+- [AWS Certified Machine Learning Engineer](https://www.credly.com/badges/a244ac57-96c3-4013-8f76-c9704b4480f4/linked_in_profile)
 - [Microsoft Certified, Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/imonikheayeni-5219/credentials/f10663e059f202e8)
 - [Oracle Cloud Certified Data Science Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F0A3D044009D3BB91270719693E08F6CC46CD7312A55236AF4DEBEA917409DAC)
 - [IBM Certified watsonx Data Scientist Associate](https://www.credly.com/badges/c8883c9d-e56a-4f1d-909c-c7c6c85e2a2b/public_url)
@@ -68,8 +69,7 @@ Currently leading analytical delivery within the NHS England Cancer Patient Expe
 - [Oracle Cloud Certified Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A8F35DE0E9FC195D33BD6C61B4645F6B4FF39FA38C30AE48FD0C27B6D7A53183)
 - [Snowflake SnowPro Platform Associate](https://achieve.snowflake.com/8f350a81-1f23-45fd-82c6-24cf3bd6946a#acc.6ouGxQic)
 - [Google Cloud Generative AI Leader](https://www.credly.com/badges/144e0249-0f1e-44ba-ad66-5731f3688eb6/public_url)
-- [Oracle Cloud Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=2E67FACDF9AD11F834C337779A8FBFDE6C46E398F28044927B5D64ADFF400EEA)
-- [Oracle Cloud AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5F26A705329BD22E4350FDEDF781A9B4CCE5A2785711142DAAB1FA90E335B830)
+
 
 **Professional Memberships**
 - Professional Member, Association of Professional Healthcare Analysts (AphA ID: 3473)
@@ -79,6 +79,8 @@ Currently leading analytical delivery within the NHS England Cancer Patient Expe
 - [Scrum Fundamentals Certified](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-ImonikheIriaAyeni-1109483.pdf)
 - [Certiport Certified, IT Specialist in Databases](https://www.credly.com/badges/6910f488-ff59-47cd-a989-cb408d0ccdb9/public_url)
 - [Certiport Certified, IT Specialist in Data Analytics](https://www.credly.com/badges/3cd299c5-b6cd-41cb-9b51-6c87f31ebda5/public_url)
+- [Oracle Cloud Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=2E67FACDF9AD11F834C337779A8FBFDE6C46E398F28044927B5D64ADFF400EEA)
+- [Oracle Cloud AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5F26A705329BD22E4350FDEDF781A9B4CCE5A2785711142DAAB1FA90E335B830)
 - [Certified Power BI Report Designer, Cardiff Metropolitan University](https://www.credly.com/badges/457489af-95bd-4616-809d-6133c3953eec/linked_in_profile)
 - [Applied Data Science Lab, WorldQuant University](https://www.credly.com/badges/1df8700b-8a8c-402d-826d-0cd3ef74c50b/public_url)
 
